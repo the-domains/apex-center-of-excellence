@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Apex Center of Excellence]]></title>
+        <description><![CDATA[Apex Center of Excellence]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 22:42:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e18fb4ae-1962-4816-88d3-7bbff20d9d00.JPG">]]></description>
+            <link>undefined4adc267a-ab9e-46f4-a822-b0714d8d2e16/index.html</link>
+            <guid isPermaLink="false">4adc267a-ab9e-46f4-a822-b0714d8d2e16</guid>
+            <pubDate>Wed, 17 Feb 2016 22:42:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
