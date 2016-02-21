@@ -1,28 +1,40 @@
-name: Apex Center of Excellence
-favicon: null
-layout_spectrum: 0.7171
-typography_spectrum: 0.5010741
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#008ddc'
-    - '#00487e'
-    - '#cc8900'
-    - '#b0b1b3'
-  brandStrength: 0.5485229
-  lightness: 0.8958382
-  saturation: 0.06206354
-  rhythmicContrast: 0.8329839
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5526316
+  brandStrength: 0.5485229
+  lightness: 0.5193341
+  brandColors:
+    - '#010101'
+    - '#FFFFFF'
+    - '#9A999B'
+    - '#656566'
+    - '#FFCC00'
+  rhythmicContrast: 0.8329839
+typography_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.764232
+favicon: null
+name: Apex Center of Excellence
